@@ -1,5 +1,5 @@
 const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'Web Developer', 'Java Programming'],
+    strings: ['Frontend Developer', 'Web Developer', 'Java Programmer'],
     typeSpeed: 70,
     backSpeed: 70,
     backDelay: 1000,
